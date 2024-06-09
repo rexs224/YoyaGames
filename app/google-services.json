@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1029058863837",
+    "project_id": "prueba1-6d400",
+    "storage_bucket": "prueba1-6d400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029058863837:android:0c76c8b4516b5cf3e13134",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3jsicn-90iytvT53QYQZ-4KFas3LEBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029058863837:android:333f948b28047484e13134",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3jsicn-90iytvT53QYQZ-4KFas3LEBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029058863837:android:389c88b4334eaec8e13134",
+        "android_client_info": {
+          "package_name": "com.example.yoyagames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3jsicn-90iytvT53QYQZ-4KFas3LEBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

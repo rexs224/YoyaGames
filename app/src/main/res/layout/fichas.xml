@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/item11"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="item11"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item12"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="item12"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item13"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="item13"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item14"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:contentDescription="item14"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/item21"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:contentDescription="item21"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item22"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            android:contentDescription="item22"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item23"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            android:contentDescription="item23"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item24"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            android:contentDescription="item24"
+            android:src="@drawable/oculta" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/item31"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:contentDescription="item31"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item32"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:contentDescription="item32"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item33"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:contentDescription="item33"
+            android:onClick="seleccionar"
+            android:src="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/item34"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:contentDescription="item34"
+            android:onClick="seleccionar"
+            android:scaleType="centerCrop"
+            android:src="@drawable/oculta" />
+    </LinearLayout>
+
+</LinearLayout>

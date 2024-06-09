@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YoyaGames</string>
+    <string-array name="opciones">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+</resources>
